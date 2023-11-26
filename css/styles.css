@@ -1,0 +1,29 @@
+
+body {
+    background-color: #292b2c; /* Negro */
+    color: #ffffff; /* Texto blanco */
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: black; /* Enlaces de navegación blancos */
+}
+
+.navbar-light .navbar-toggler-icon {
+    background-color: #ffffff; /* Ícono del botón de navegación blanco */
+}
+
+.card {
+    background-color: #4a148c; /* Violeta oscuro */
+    border: 1px solid #4a148c; /* Borde delgado */
+    color: #ffffff; /* Texto blanco dentro de la tarjeta */
+    margin-bottom: 20px; /* Espaciado inferior entre las tarjetas */
+}
+
+.card-img-top {
+    height: 200px; /* Altura fija para todas las imágenes */
+    object-fit: cover; /* Ajustar la imagen para cubrir completamente la caja */
+}
+
+.card-body {
+    text-align: center; /* Centrar el contenido del cuerpo de la tarjeta */
+}
